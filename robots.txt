@@ -1,6 +1,6 @@
 User-agent: *
     Disallow: /
-    Disallow: /ordering/*/*/$
+    Disallow: /ordering/*/*/*$
     Allow: /ordering/*/*$
     Allow: /shop/*/*$
     Allow: /booking/*/*$
