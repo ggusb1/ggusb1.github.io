@@ -1,7 +1,6 @@
 User-agent: *
     Disallow: /
     Allow: /ordering/*/*$
-    Disallow: /ordering/*/*/*/$
     Allow: /shop/*/*$
     Allow: /booking/*/*$
     Allow: /gift-card/*/*$
